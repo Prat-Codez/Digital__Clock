@@ -19,11 +19,9 @@ A stylish desktop digital clock application built with Python's tkinter library 
 
 You can easily change the color scheme by modifying these variables in the code:
 
-# Background color
-bg_color = "#0A1428"
+bg_color = "#0A1428" --> # Background color
 
-# Text color
-fg_color = "#B0E0E6"  
+fg_color = "#B0E0E6" --> # Text color  
 
 ### Available Color Schemes
 - Classic Retro Green:  `bg_color = "#1E1E1E"` ,  `fg_color = "#00FF00"`
